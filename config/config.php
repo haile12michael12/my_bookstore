@@ -1,12 +1,13 @@
 <?php 
 
 
+
     //host
     $host = "localhost";
 
     //dbname
 
-    $dbname = "my_bookstore";
+    $dbname = "Bookstore";
 
     //username
 
